@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @shoaib812
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ...New
-- 💞️ I’m looking to collaborate on ...
+Actively looking for an opportunity | 
+Java Software Engineer | 
+Java Full Stack Developer | 
+Accessibility Trainee | 
+Backend Development, MySQL, Spring Boot | 
+“Immediate Joiner”
+
 - 📫 How to reach me ...mohd.shoaib812@gmail.com
 
 <!---
