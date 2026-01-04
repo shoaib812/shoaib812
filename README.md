@@ -5,7 +5,7 @@ Accessibility Trainee |
 Backend Development, MySQL, Spring Boot | 
 “Immediate Joiner”
 
-- 📫 How to reach me ...mohd.shoaib812@gmail.com
+- 📫 How to reach me ...mohd.shoaib8990@gmail.com
 
 <!---
 shoaib812/shoaib812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
