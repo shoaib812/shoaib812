@@ -1,7 +1,7 @@
 Actively looking for an opportunity | 
 Java Software Engineer | 
 Java Full Stack Developer | 
-Accessibility Trainee | 
+Accessibility Tester | 
 Backend Development, MySQL, Spring Boot | 
 “Immediate Joiner”
 
